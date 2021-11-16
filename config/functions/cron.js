@@ -10,6 +10,7 @@
  * See more details here: https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/configurations.html#cron-tasks
  */
 
+
 module.exports = {
   /**
    * Simple example.
